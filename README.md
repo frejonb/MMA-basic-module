@@ -1,5 +1,7 @@
 # MMA-basic-module
 
+Variety of functions used in other projects.
+
     MIT License
 
     Copyright (c) 2018 Fernando G. Rejon Barrera
